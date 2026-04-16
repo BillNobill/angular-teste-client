@@ -1,9 +1,12 @@
-# Angular_Teste_Client
+# angular-teste-client
 
-Projeto Angular_Teste_Client.
+Parte cliente (Front-end) de uma aplica├º├úo de teste desenvolvida com Angular.
 
-## Setup
-```bash
-npm install
-npm start
-```
+## 🛠️ Tecnologias
+`angular`, `frontend`, `spa`, `typescript`
+
+## 🚀 Uso
+Instruções básicas de uso para este projeto.
+
+## 📄 License
+Este projeto está licenciado sob a licença MIT.
